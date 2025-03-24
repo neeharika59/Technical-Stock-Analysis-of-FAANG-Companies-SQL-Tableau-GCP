@@ -1,0 +1,1 @@
+# Technical-Stock-Analysis-of-FAANG-Companies-SQL-Tableau-GCP
